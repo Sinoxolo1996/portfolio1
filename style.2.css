@@ -1,0 +1,66 @@
+body {
+                
+    background-image:url("sino.back.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+        }
+        .topnav a {
+            float: left;
+            display: block;
+            color: #f2f2f2;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+            font-size: 17px;
+            border-bottom: 3px solid transparent;
+        }
+        ul {
+            text-align: center;
+            border-bottom: 1px solid #555;
+        
+          }
+          ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color: #333;
+          }
+          
+        
+
+
+        
+        
+
+        h1 {
+            font-size: 40px;
+            text-align: center;
+            color:whitesmoke;
+            text-shadow:5px 2px 4px #453690;
+            text-decoration: underline;
+        }
+
+        
+        h2 {
+            font-size: 30px;
+            text-align: center;
+            color:whitesmoke;
+            text-shadow:5px 2px 4px #453690;
+            text-decoration: underline;
+        }
+
+        h3 {
+            font-size: 25px;
+            text-align: center;
+            color:whitesmoke;
+            text-shadow:5px 2px 4px #453690;
+        }
+        h4 {
+            font-size: 25px;
+            text-align: center;
+            color:white;
+            text-shadow:5px 2px 4px #453690;
+
+        }
+    
